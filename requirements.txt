@@ -17,7 +17,7 @@ mkl-fft==1.0.10
 mkl-random==1.0.2
 numpy==1.16.2
 pandas==0.24.1
-protobuf==3.6.1
+protobuf==3.18.3
 pycparser==2.19
 pyOpenSSL==19.0.0
 PySocks==1.6.8
